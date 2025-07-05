@@ -42,4 +42,4 @@
 自适应设计：网站自动适应不同屏幕尺寸，保证最佳的观影体验。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/su4569/12217 ）</span>
